@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+header {
+  margin: 0px;
+  padding: 0px;
+  color: #eceff1;
+}
+header > h1 {
+  padding: 50px;
+  margin: 0px;
+  text-align: center;
+}
